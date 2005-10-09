@@ -1,4 +1,4 @@
-%define         _name	CrystalClear
+%define		_name	CrystalClear
 Summary:	KDE icons - %{_name}
 Summary(pl):	Motyw ikon do KDE - %{_name}
 Name:		kde-icons-%{_name}
