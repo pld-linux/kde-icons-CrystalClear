@@ -14,10 +14,10 @@ BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-%{_name} is icons theme for KDE
+%{_name} is icons theme for KDE.
 
 %description -l pl
-%{_name} to motyw ikon dla KDE
+%{_name} to motyw ikon dla KDE.
 
 %prep
 
